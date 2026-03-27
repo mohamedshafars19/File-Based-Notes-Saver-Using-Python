@@ -1,0 +1,5 @@
+Name	Average	Grade
+Arun	81.0	B
+Bala	61.67	C
+Cathy	90.0	A
+David	40.0	Fail
